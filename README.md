@@ -6,6 +6,3 @@ The storage is based on JSON files, and can therefore also be used to store, com
 
 A minimal working example is provided in the module, so you can use that and the documentation to get started.
 Feel free to modify the code as you see fit. 
-
-Originally made for compression in a Pacman AI Bot. 
-The source code can be found here: https://github.com/GnomeBlue/pacman_reinforcement_ai. 
